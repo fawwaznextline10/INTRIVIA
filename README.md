@@ -10,3 +10,5 @@ seru dan bermanfaat
 
 ## Kesan Pesan Cluster 3 Sejauh Ini 
 asik beut bocah bocah. 
+## Harapan Kuliah 
+bisa lulus tepat waktu, dapet ipk 4, dan betul betul memahami dunia software engineer 
